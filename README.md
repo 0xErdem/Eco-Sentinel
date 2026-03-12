@@ -1,4 +1,6 @@
 Eco-Sentinel: Unsupervised Machine Learning for Harmful Algal Bloom (HAB) Detection
+<img width="809" height="628" alt="image" src="https://github.com/user-attachments/assets/bc666c4e-3c92-408a-b881-6d6f5a3b4341" />
+
 Project Overview
 Eco-Sentinel is a data-driven environmental engineering project aimed at detecting Harmful Algal Blooms (HABs) and sensor anomalies in aquatic ecosystems. By combining water quality thermodynamics with unsupervised machine learning, this project identifies the true biological signatures of ecological crises without relying on pre-labeled data or rigid thresholds.
 
